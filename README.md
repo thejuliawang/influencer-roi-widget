@@ -1,2 +1,7 @@
-# influencer-roi-widget
-Benchmarks influencer CPM, CPE, and audience tier data; generates polished ROI visuals for campaigns.
+
+# Influencer ROI Widget (CRA → r2wc)
+
+**Embed**
+```html
+<script defer src="https://<your-username>.github.io/influencer-roi-widget/static/js/main.js"></script>
+<r2wc-influencer-roi></r2wc-influencer-roi>
